@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navbar", "VERTICAL MENU\Navbar.csproj", "{D56E8A8C-A98C-4C41-807E-1C8EF0206DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D56E8A8C-A98C-4C41-807E-1C8EF0206DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56E8A8C-A98C-4C41-807E-1C8EF0206DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56E8A8C-A98C-4C41-807E-1C8EF0206DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56E8A8C-A98C-4C41-807E-1C8EF0206DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B25C545A-6106-4708-B13B-2BECD22321E3}
+	EndGlobalSection
+EndGlobal
