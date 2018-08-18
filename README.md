@@ -1,5 +1,6 @@
-ResponsiveNavBar
+# ResponsiveNavBar
 Responsive Navigations
+#
 Responsive Menu Bar and SideBar:
 1.	Bootstrap 
 2.	CSS3
